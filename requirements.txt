@@ -2,3 +2,4 @@ gtts
 pillow
 streamlit
 qrcode
+panda
