@@ -2,4 +2,5 @@ gtts
 pillow
 streamlit
 qrcode
-panda
+pandas
+supabase
